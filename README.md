@@ -19,8 +19,8 @@ Assumption: All comments (texts) from diabetes forums are related to diabetes. <
 To find out the results, we have completed data extractions(Python/ BeautifulSoup), data processing (PySpark) and data analysis 
 (TFIDF, Wordcloud, Sentiment Analysis)
 
-![steps](https://github.com/matthewchan55/CS4480-Data-Intensive-Computing-Project/assets/75091114/b2e16b22-2ff6-43df-ad02-b07799d47094)
-![wordcloud_type2](https://github.com/matthewchan55/CS4480-Data-Intensive-Computing-Project/assets/75091114/c122e822-ad75-46a9-9fb7-70f76d61f5c2)
-![wordcloud_type1](https://github.com/matthewchan55/CS4480-Data-Intensive-Computing-Project/assets/75091114/be48c628-29fe-4244-8899-e2cd42f18111)
-![lda](https://github.com/matthewchan55/CS4480-Data-Intensive-Computing-Project/assets/75091114/35f733f2-99ca-46cf-9fee-caa58136946d)
-![sentiment2](https://github.com/matthewchan55/CS4480-Data-Intensive-Computing-Project/assets/75091114/7932ddac-7866-48bf-a595-471c5929410d)
+![steps](/screenshots/steps.PNG)
+![wordcloud_type2](/screenshots/wordcloud_type2.PNG)
+![wordcloud_type1](/screenshots/wordcloud_type1.PNG)
+![lda](/screenshots/lda.PNG)
+![sentiment2](/screenshots/sentiment2.PNG)
